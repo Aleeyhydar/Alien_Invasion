@@ -1,0 +1,2 @@
+import aliens
+aliens.main()
